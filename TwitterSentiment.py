@@ -1,5 +1,5 @@
 import tweepy
-from textblob import textblob
+from textblob import TextBlob
 
 #tokenize text
 #count from bag of words

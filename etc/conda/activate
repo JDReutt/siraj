@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export MY_KEY='secret-key-value'
+export MY_FILE=path/to/my/file/
